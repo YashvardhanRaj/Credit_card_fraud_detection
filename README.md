@@ -20,6 +20,13 @@ Businesses require clear visibility into key metrics such as revenue, customer b
   - Transaction details
   - Customer information
   - Categories / regions / time
+  
+Dataset Access
+
+Due to size constraints, the full dataset is not included in this repository.
+
+You can download it from:
+https://www.kaggle.com/datasets/kartik2112/fraud-detection/data
 
 ---
 
